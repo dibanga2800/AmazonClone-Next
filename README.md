@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Installation Steps
 
 
@@ -26,3 +27,7 @@ Run commands
 ### If you see the window below then you are set to build AMAZON 2.0!
 
 ![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
+=======
+# Amazon-clone
+This projects demonstrates how Amazon can be built with react with full responsiveness using Tailwindcss
+>>>>>>> 574b9912fd6109920d4266f2ec4b06965b6d1d00
